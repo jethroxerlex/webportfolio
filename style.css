@@ -3,16 +3,20 @@
 	padding: 0;
 	background-color: #C0C0C0;
  }
-h1 {
-	font-size: 100px;
-	font-family: 'Comforter', cursive;
-	}
-
 .display-4 {
 	text-align: left;
 	font-size: 150px;
 	padding: 500px;
+	font-size: 100px;
+	font-family: 'Comforter', cursive;
 }
-#bam {
-	position: relative;
+div h1 {
+	font-size: 100px;
+	font-family: cursive;
+	text-align: center;
+	padding: 100px;
+}
+h1 + P {
+	font-size: 2rem;
+	margin-right: 5rem;
 }
