@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 	background-color: #C0C0C0;
+	box-sizing: border-box;
  }
 .display-4 {
 	text-align: left;
@@ -19,4 +20,14 @@ div h1 {
 h1 + P {
 	font-size: 2rem;
 	margin-right: 5rem;
+}
+.sample {
+	text-align: center;
+	font-size: 5rem;
+}
+
+#pic3 {
+	float: left;
+	width: 48%;
+	margin-bottom: 3rem;
 }
