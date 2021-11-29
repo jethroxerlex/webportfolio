@@ -24,10 +24,14 @@ h1 + P {
 .sample {
 	text-align: center;
 	font-size: 5rem;
+	font-family: 'Permanent Marker', cursive;
 }
 
 #pic3 {
 	float: left;
 	width: 48%;
 	margin-bottom: 3rem;
+}
+#DS3 {
+	font-family: 'Dancing Script', cursive;
 }
